@@ -31,6 +31,7 @@ Happy Open Sourcing!
 - [Fibonacci Series](algorithms/Maths/fibonacci)
 - [Magic Number](algorithms/Maths/magic_no/)
 - [Digits to Figure](algorithms/Maths/digit_to_figure)
+- [T Prime Number](algorithms/Maths/t_prime_number)
 
 ### Sorting
 
